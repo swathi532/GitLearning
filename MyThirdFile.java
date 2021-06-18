@@ -1,0 +1,2 @@
+public class MyThirdFile {
+}
