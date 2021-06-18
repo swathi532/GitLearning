@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yasho
+ *
+ */
+module learningGit {
+}
